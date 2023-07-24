@@ -9,6 +9,4 @@ I'm a software developer interested in solving realworld problems.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saeedrila&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saeedrila)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=saeedrila)  
